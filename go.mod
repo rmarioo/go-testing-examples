@@ -1,3 +1,3 @@
-module go-modules-example
+module go-testing-examples
 
 go 1.21
